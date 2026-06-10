@@ -22,7 +22,9 @@ python Telemetry.py
 ```
 ## Comparaison Verstappen vs Russell
 ![Telemetry](outputs/Verstappen_VS_Russel.png)
+## Temps tour Verstappen
 ![Telemetry](outputs/Verstappen_Laptimes_in_the_2025_Singapor_Grand_Prix.png)
+## Circuit Singapour Verstappen
 ![Telemetry](outputs/Verstappen_LAP.png)
 
 
