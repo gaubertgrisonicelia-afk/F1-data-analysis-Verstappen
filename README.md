@@ -1,7 +1,7 @@
 # F1-data-analysis-Verstappen (Singapore Grand Prix 2025)
 Analyse de données de F1 avec Python et FastF1
 
-### Analyse des temsp au tout
+### Analyse des temps au tour
 Analyse des temps au tour de Max Verstappen lors du Grand Prix de Singapour 2025
 
 ### Comparaison de deux pilotes
