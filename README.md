@@ -21,7 +21,10 @@ pip install fastf1 matplotlib pandas
 python Telemetry.py
 ```
 ## Comparaison Verstappen vs Russell
-![Telemetry](outputs/Verstappen VS Russel.png)
+![Telemetry](outputs/Verstappen_VS_Russel.png)
+![Telemetry](outputs/Verstappen_Laptimes_in_the_2025_Singapor_Grand_Prix.png)
+![Telemetry](outputs/Verstappen_LAP.png)
+
 
 Improve README
 
